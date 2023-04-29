@@ -1,0 +1,7 @@
+*~
+build/
+dist/
+unitypack.egg-info/
+__pycache__/
+*.pyc
+graph.dot
